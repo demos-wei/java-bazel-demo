@@ -1,5 +1,5 @@
 # Java bazel demo
-A demo for java bazel, this demo integrate log4j.
+A demo for integrating log4j by bazel.
 
 The log4j configuration file is `src/main/resources/log4j.properties`, more info see [configuration doc](https://logging.apache.org/log4j/2.x/manual/configuration.html)
 
